@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (161006 DFS BFS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DFS.cpp
+  161006.vcxproj -> C:\Users\seo\documents\visual studio 2015\Projects\알고리즘2\Debug\161006-(1) DFS.exe
+  161006.vcxproj -> C:\Users\seo\documents\visual studio 2015\Projects\알고리즘2\Debug\161006-(1) DFS.pdb (Partial PDB)

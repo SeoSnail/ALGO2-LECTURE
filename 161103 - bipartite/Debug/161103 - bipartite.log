@@ -1,0 +1,4 @@
+﻿  bipartite.cpp
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\161103 - bipartite\bipartite.cpp(246): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+  161103 - bipartite.vcxproj -> C:\Users\seo\Documents\Visual Studio 2015\Projects\알고리즘2\Debug\161103 - bipartite.exe
+  161103 - bipartite.vcxproj -> C:\Users\seo\Documents\Visual Studio 2015\Projects\알고리즘2\Debug\161103 - bipartite.pdb (Partial PDB)

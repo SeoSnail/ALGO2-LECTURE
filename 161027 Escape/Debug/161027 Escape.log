@@ -1,0 +1,4 @@
+﻿  esc.cpp
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\161027 escape\esc.cpp(246): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+  161027 Escape.vcxproj -> C:\Users\seo\Documents\Visual Studio 2015\Projects\알고리즘2\Debug\161027 Escape.exe
+  161027 Escape.vcxproj -> C:\Users\seo\Documents\Visual Studio 2015\Projects\알고리즘2\Debug\161027 Escape.pdb (Partial PDB)

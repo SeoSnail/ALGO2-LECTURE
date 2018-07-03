@@ -1,0 +1,6 @@
+﻿  t1.cpp
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\test\t1.cpp(52): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\test\t1.cpp(91): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\test\t1.cpp(144): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Test.vcxproj -> C:\Users\seo\Documents\Visual Studio 2015\Projects\알고리즘2\Debug\Test.exe
+  Test.vcxproj -> C:\Users\seo\Documents\Visual Studio 2015\Projects\알고리즘2\Debug\Test.pdb (Partial PDB)

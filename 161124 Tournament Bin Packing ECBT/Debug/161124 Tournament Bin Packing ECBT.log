@@ -1,0 +1,7 @@
+﻿  t.cpp
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\161124 tournament bin packing ecbt\t.cpp(21): warning C4273: 'log2': dll 링크가 일치하지 않습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(506): note: 'log2'의 이전 정의를 참조하십시오.
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\161124 tournament bin packing ecbt\t.cpp(216): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\161124 tournament bin packing ecbt\t.cpp(217): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  161124 Tournament Bin Packing ECBT.vcxproj -> C:\Users\seo\Documents\Visual Studio 2015\Projects\알고리즘2\Debug\161124 Tournament Bin Packing ECBT.exe
+  161124 Tournament Bin Packing ECBT.vcxproj -> C:\Users\seo\Documents\Visual Studio 2015\Projects\알고리즘2\Debug\161124 Tournament Bin Packing ECBT.pdb (Partial PDB)

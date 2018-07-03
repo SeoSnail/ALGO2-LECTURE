@@ -1,0 +1,4 @@
+﻿  test.cpp
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\재구 스케줄 테스트\test.cpp(54): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+  재구 스케줄 테스트.vcxproj -> C:\Users\seo\documents\visual studio 2015\Projects\알고리즘2\Debug\재구 스케줄 테스트.exe
+  재구 스케줄 테스트.vcxproj -> C:\Users\seo\documents\visual studio 2015\Projects\알고리즘2\Debug\재구 스케줄 테스트.pdb (Partial PDB)

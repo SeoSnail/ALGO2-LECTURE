@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Scheduling.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  scheduling.cpp
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\scheduling\scheduling.cpp(88): warning C4101: 'root2' :참조되지 않은 지역 변수입니다.
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\scheduling\scheduling.cpp(89): warning C4101: 'empty_slot' :참조되지 않은 지역 변수입니다.
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\scheduling\scheduling.cpp(89): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+c:\users\seo\documents\visual studio 2015\projects\알고리즘2\scheduling\scheduling.cpp(88): warning C4101: 'root1' :참조되지 않은 지역 변수입니다.
+  Scheduling.vcxproj -> C:\Users\seo\documents\visual studio 2015\Projects\알고리즘2\Debug\160911 Scheduling.exe
+  Scheduling.vcxproj -> C:\Users\seo\documents\visual studio 2015\Projects\알고리즘2\Debug\160911 Scheduling.pdb (Partial PDB)
